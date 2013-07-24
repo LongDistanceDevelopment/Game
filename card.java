@@ -16,5 +16,5 @@
 public class card 
 {
 	public int suit;
-	public int type;
+	public int type; 
 }
